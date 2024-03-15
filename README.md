@@ -58,7 +58,7 @@ Sigue el diagrama de clase UML proporcionado para construir la aplicación.
 
 AÑADE AL DIAGRAMA DE CLASES (junto a sus relaciones con el resto de clases) el componente .
 
-![Diagrama de clases UML](./doc/diagrama_clases_UML_alumnado.png)
+![Diagrama de clases UML](./doc/diagrama_clases_UML.png)
 
 ## Prepara el proyecto
 
